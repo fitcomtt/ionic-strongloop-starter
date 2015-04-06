@@ -8,6 +8,8 @@ A starter app for Ionic with user integration against your Strongloop backend. W
 
 ##Starting
 
+[Install Strongloop](http://docs.strongloop.com/display/SL/Installing+StrongLoop)
+
 ###Server
 
 Api location once the server is running--> localhost:3000/api
@@ -44,6 +46,7 @@ After login to start the api server from strongloop arc
 Then click start :)
 
 ### App
+[Install Ionic](http://ionicframework.com/getting-started/)
 
 View in browser 
 ```
