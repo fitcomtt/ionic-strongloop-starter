@@ -75,3 +75,15 @@ ionic browser add crosswalk
 #### IOS
 
 Well don't have a mac yet :D
+
+
+##TODO's
+
+###App
++ Add user avatar function
++ Add reset password function
+
+###Server
+
++ Setup email connector
++ Setup storage component
