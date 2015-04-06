@@ -37,8 +37,9 @@ Once the browser is open create a new account or login
 
 After login to start the api server from strongloop arc
 
-![Alt text](https://github.com/fitcom/ionic-strongloop-starter/images/slc_arc.png "Strongloop Arc")
-![Alt text](https://github.com/fitcom/ionic-strongloop-starter/images/slc_arc_2.png "Strongloop Arc")
+![Alt text](https://raw.githubusercontent.com/fitcom/ionic-strongloop-starter/master/images/ss_arc.png "Strongloop Arc")
+
+![Alt text](https://raw.githubusercontent.com/fitcom/ionic-strongloop-starter/master/images/ss_arc_2.png "Strongloop Arc")
 
 Then click start :)
 
