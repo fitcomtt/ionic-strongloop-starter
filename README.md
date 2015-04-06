@@ -1,1 +1,1 @@
-# ionic-strongloop-starter
+# Ionic Strongloop Starter
