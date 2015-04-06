@@ -82,6 +82,7 @@ Well don't have a mac yet :D
 ###App
 + Add user avatar function
 + Add reset password function
++ Add some form validation
 
 ###Server
 
